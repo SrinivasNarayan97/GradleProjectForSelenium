@@ -1,0 +1,6 @@
+.idea
+*.iml
+*.bat
+*.properties
+*.lock
+*.bin
